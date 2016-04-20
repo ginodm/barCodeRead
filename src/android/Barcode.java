@@ -15,7 +15,7 @@ import org.apache.cordova.CordovaPlugin;
 
 //importazioni da Android
 import android.content.Context;
-import android.hardware.barcode.Scanner;
+import com.equipnet.barcode.Scanner;
 import android.telephony.TelephonyManager;
 import android.util.Log; 
 import android.view.KeyEvent;
