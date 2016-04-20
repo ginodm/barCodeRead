@@ -26,6 +26,7 @@
             <uses-permission android:name="android.permission.READ_PHONE_STATE" />
         </config-file>
 	<source-file src="src/android/Barcode.java" target-dir="src/com/equipnet/barcode/" />
+	<source-file src="Scanner.java" target-dir="src/com/equipnet/barcode/" />
     </platform>
 
 
