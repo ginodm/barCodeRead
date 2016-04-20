@@ -10,7 +10,7 @@
     <license>MIT</license>
     <keywords></keywords>
 
-    <js-module src="www/barcode.js" name="barcode\">
+    <js-module src="www/barcode.js" name="barcode">
         <clobbers target="navigator.barcode" />
     </js-module>
     <!-- android -->
