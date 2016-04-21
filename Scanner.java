@@ -1,4 +1,4 @@
-package com.equipnet.barcode;
+package android.hardware.barcode;
 
 import java.io.IOException;
 
